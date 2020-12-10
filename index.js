@@ -1,5 +1,5 @@
 #! /usr/bin/env node
-/*jshint esversion: 6 */
+/*jshint esversion: 8 */
 const readline = require('readline').createInterface({
     input: process.stdin,
     output: process.stdout,
